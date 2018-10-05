@@ -1,0 +1,15 @@
+body {
+    background-color: #232323;
+    margin: 0;
+    font-family: "Merriweather";
+}
+
+.question {
+    color: white;
+    text-align: center;
+}
+
+.answers {
+    color: white;
+    text-align: center;
+}
